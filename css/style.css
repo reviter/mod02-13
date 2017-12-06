@@ -83,7 +83,7 @@ div.website {
 
 div.section-b {
 	background: url('https://hdwallpaperim.com/wp-content/uploads/2017/09/07/468687-Shokugeki_no_Souma-Yukihira_Soma-Nana_Komatsu-anime.jpg'); 
-	background-size: 1100px 700px;
+	background-size: 1100px 800px;
 	width: 85%;
 	height: 80vh;
 	position: relative;
@@ -161,4 +161,20 @@ div.section-f {
 	font-size: 2em;
 	border: 1px solid #000;
 	text-align: center;
+}
+
+#toggleIcon,
+#toggleIcon1 {
+	background-color: red;
+	position: fixed;
+	top: 0;
+	left: 188px;
+	padding: 15px;
+	z-index: 1;
+	color: #fff;
+	font-size: 2em;
+}
+
+#toggleIcon1 {
+	left: 0;
 }
