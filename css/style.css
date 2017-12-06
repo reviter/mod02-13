@@ -58,7 +58,7 @@ div.section-a {
 	background: url('https://dw9to29mmj727.cloudfront.net/promo/2016/5337-SeriesHeaders_Tier01_FW_2000x800.jpg');
 	background-size: 1300px 800px;
 	background-repeat: no-repeat;
-	width: 100%;
+	width: 102.6%;
 	height: 80vh;
 	position: relative;
 	margin-left: 15%;
@@ -90,7 +90,7 @@ div.website {
 div.section-b {
 	background: url('https://hdwallpaperim.com/wp-content/uploads/2017/09/07/468687-Shokugeki_no_Souma-Yukihira_Soma-Nana_Komatsu-anime.jpg'); 
 	background-size: 1300px 800px;
-	width: 100%;
+	width: 102.6%;
 	height: 70vh;
 	position: relative;
 	margin-left: 15%;
@@ -101,7 +101,7 @@ div.section-b {
 
 div.section-c {
 	background-color: #88d8b0;
-	width: 100%;
+	width: 102.6%;
 	height: 90vh;
 	position: relative;
 	margin-left: 15%;
@@ -115,8 +115,9 @@ div.section-c {
 }
 
 div.section-d {
-	background-color: #ffeead;
-	width: 100%;
+	background-color: #555555;
+	color: #fff;
+	width: 102.6%;
 	height: 90vh;
 	position: relative;
 	margin-left: 15%;
@@ -141,7 +142,7 @@ div.bottom-1 {
 
 div.section-e {
 	background-color: #a7adba;
-	width: 100%;
+	width: 102.6%;
 	height: 20vh;
 	position: relative;
 	margin-left: 15%;
@@ -160,7 +161,7 @@ div.section-e {
 
 div.section-f {
 	background-color: #000;
-	width: 100%;
+	width: 102.6%;
 	height: 5vh;
 	position: relative;
 	margin-left: 15%;
