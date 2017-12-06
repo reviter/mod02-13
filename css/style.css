@@ -1,0 +1,143 @@
+/* CSS Reset */
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+div.wrapper{
+	width: 100%;
+	font-family: Open Sans, Roboto, sans-serif;
+}
+
+div.sidebar {
+	height: 100vh;
+	width: 15%;
+	position: fixed;
+	background-color: #ffe7e0;
+	border: 1px solid #000;
+}
+
+div.logo {
+	content: url('http://vignette3.wikia.nocookie.net/animevice/images/9/9d/Food_Wars_%28Franchise_Logo%29.png/revision/latest?cb=20150531035831');
+	height: 20%;
+	width: 80%;
+	border: 1px solid #000;
+	border-radius: 5px;
+	margin-top: 10%;
+	margin-left: 18px;
+	margin-bottom: 10%;
+}
+
+nav > ul > li {
+	display: block;
+	text-align: center;
+	font-size: 1.5em;
+	line-height: 50px;
+	background: url('http://shokugekinosoma.com/core_sys/images/main/common/bg_flame_small.jpg');
+	background-size: 100% 5%;
+	background-color: #fff;
+	width: 80%;
+	margin-top: 7px;
+	margin-left: 18px;
+	padding: 2px;
+}
+
+nav > ul > li > a {
+	text-decoration: none;
+	color: #000;
+}
+
+div.section-a {
+	background: url('https://dw9to29mmj727.cloudfront.net/promo/2016/5337-SeriesHeaders_Tier01_FW_2000x800.jpg');
+	background-size: 1100px 700px;
+	background-repeat: no-repeat;
+	width: 85%;
+	height: 75vh;
+	position: relative;
+	margin-left: 15%;
+	border: 1px solid #000;
+}
+
+h1 {
+	display: inline;
+}
+
+div.website {
+	font-size: 1em;
+	width: 60%;
+	margin-top: 20%;
+	margin-left: 20%;
+	text-align: center;
+	border: 10px solid beige;
+	padding: 50px;
+}
+
+.class-p {
+	font-size: 1em;
+	width: 60%;
+	margin: 0 auto;
+	margin-left: 20%;
+	text-align: center;
+}
+
+div.section-b {
+	background: url('https://hdwallpaperim.com/wp-content/uploads/2017/09/07/468687-Shokugeki_no_Souma-Yukihira_Soma-Nana_Komatsu-anime.jpg'); 
+	background-size: 1100px 700px;
+	width: 85%;
+	height: 80vh;
+	position: relative;
+	margin-left: 15%;
+	border: 1px solid #000;
+	color: #a67c00;
+	text-shadow: 1px 0px 1px black;
+}
+
+div.section-c {
+	background-color: #88d8b0;
+	width: 85%;
+	height: 90vh;
+	position: relative;
+	margin-left: 15%;
+	border: 1px solid #000;
+	font-size: 1.1em;
+	font-weight: bold;
+}
+
+.table-menu {
+	border: 2px solid #000;
+}
+
+div.section-d {
+	background-color: #ffeead;
+	width: 85%;
+	height: 90vh;
+	position: relative;
+	margin-left: 15%;
+	border: 1px solid #000;
+}
+
+div.bottom {
+	background: url('http://cebudailynews.inquirer.net/files/2016/07/c0725feeding.jpg');
+	height: 80vh;
+	width: 90%;
+	margin: 0 auto;
+	border-top: 4px solid #00ccff;
+	border-bottom-left-radius: 15px;
+	border-bottom-right-radius: 15px;
+	background-color: #575757;
+}
+
+div.bottom-1 {
+	background: url('http://www.marketmanila.com/wp-content/uploads/2009/12/1100.jpg');
+
+}
+
+div.section-e {
+	background-color: #a7adba;
+	width: 85%;
+	height: 90vh;
+	position: relative;
+	margin-left: 15%;
+	border: 1px solid #000;
+}
