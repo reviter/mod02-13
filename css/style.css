@@ -136,8 +136,29 @@ div.bottom-1 {
 div.section-e {
 	background-color: #a7adba;
 	width: 85%;
-	height: 90vh;
+	height: 20vh;
 	position: relative;
 	margin-left: 15%;
 	border: 1px solid #000;
+}
+
+.class-p4 {
+	font-size: 1.1em;
+	font-weight: bold;
+}
+
+.class-p5 {
+	font-size: 1.1em;
+	font-weight: bold;
+}
+
+div.section-f {
+	background-color: #a7adba;
+	width: 85%;
+	height: 5vh;
+	position: relative;
+	margin-left: 15%;
+	font-size: 2em;
+	border: 1px solid #000;
+	text-align: center;
 }
